@@ -1,0 +1,28 @@
+avatar:
+  enable: true
+  url: https://ipfs.fleek.co/ipfs/bafybeiccss3figrixd5qhhv6i6zhbz5chmyls6ja5kscu6drg7fnjcnxgm
+menu:
+  # Basic Menu
+  Home: true
+  Archives: true
+  Categories: true
+  Tags: true
+
+  # Custom Menu
+  # 'About' link to the 'About' page if there exists '/about/index.md' in your 'source' dir.
+  # 这里是一个导航到'关于我'的页面，前提是你需要在你的'source'文件夹有'/about/index.md'文件
+  About: /pages/about/index
+
+social:
+  github: https://github.com/Meta-Network
+  weibo: false
+  # Email link
+  email: mailto:team@metawork.online
+
+social_icons:
+  enable: true
+
+  # icon name docs: http://fontawesome.io/icons/
+  github: fa-github-alt
+  weibo: false
+  email: fa-envelope

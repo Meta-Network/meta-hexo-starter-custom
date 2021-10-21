@@ -1,3 +1,3 @@
 #!/bin/bash
 
-git clone https://github.com/probberechts/hexo-theme-cactus themes/cactus
+git clone https://github.com/HeskeyBaozi/hexo-theme-lite themes/lite
