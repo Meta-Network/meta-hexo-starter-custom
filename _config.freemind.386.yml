@@ -1,0 +1,48 @@
+slogan: Yet another bootstrap theme.
+
+menu:
+  - title: Archives
+    url: archives
+    intro: All the articles.
+    icon: fa fa-archive
+  - title: Categories
+    url: categories
+    intro: All the categories.
+    icon: fa fa-folder
+  - title: Tags
+    url: tags
+    intro: All the tags.
+    icon: fa fa-tags
+  - title: About
+    url: about
+    intro: About me.
+    icon: fa fa-user
+
+links:
+  - title: Github
+    url: http://www.github.com/Meta-Network
+    intro: My Github account.
+    icon: fa fa-github
+
+widgets:
+  - search
+  - category
+  - tagcloud
+  - recent_posts
+  - links
+
+rss: atom.xml
+favicon: favicon.png
+fancybox: true
+duoshuo_shortname:
+
+# analytics
+google_analytics:
+  enable: false
+  siteid:
+baidu_tongji:
+  enable: false
+  siteid:
+
+# Search
+swiftype_key:
