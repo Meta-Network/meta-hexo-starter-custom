@@ -1,5 +1,7 @@
 # Header-菜单
 menu:
+  Home: /
+  Archives: /archives
 
 # subNav-子导航
 subNav: false
@@ -31,9 +33,9 @@ mathjax: false
 
 # Open link in a new tab | 是否在新窗口打开链接
 open_in_new:
-  article: true # 文章链接
-  menu: true # 导航菜单
-  subNav: true # 子菜单
+  article: false # 文章链接
+  menu: false # 导航菜单
+  subNav: false # 子菜单
 
 # 打赏
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
@@ -233,9 +235,9 @@ slider:
 #smart_menu:
 #  friends: false
 smart_menu:
-  innerArchive: "所有文章"
+  innerArchive: "Posts"
   friends: false
-  aboutme: "关于我"
+  aboutme: "About"
 
 # 友情链接
 friends:
@@ -243,4 +245,4 @@ friends:
     url: https://github.com/Meta-Network
 
 # 关于我
-aboutme: Meta Network combines several Web3 technologies including DeFi and decentralized storage to create a community-driven creators network. We improve the interaction between creators and fans through a token economy, and capitalize the data created by users in social networks, ultimately enabling Data as Labor.
+aboutme: Meta Network combines several Web3 technologies to create a community-driven creators network.
