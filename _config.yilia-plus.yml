@@ -1,7 +1,5 @@
 # Header-菜单
 menu:
-  Home: /
-  Archives: /archives
 
 # subNav-子导航
 subNav: false
