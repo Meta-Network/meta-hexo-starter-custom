@@ -26,3 +26,12 @@ social_icons:
   github: fa-github-alt
   weibo: false
   email: fa-envelope
+
+background:
+  background_color: "#ffffff"
+
+  # Custom Background Picture
+  enable_picture: true
+  url: /static/images/bg-meta-network.gif
+  css_size: cover
+  css_position: 50%
