@@ -26,6 +26,7 @@
     "hexo-renderer-pug": "^2.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
-    "hexo-tag-bootstrap": "^0.2.2"
+    "hexo-tag-bootstrap": "^0.2.2",
+    "hexo-filter-meta-space": "^0.0.2",
   }
 }
