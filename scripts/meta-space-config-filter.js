@@ -20,5 +20,5 @@ hexo.extend.filter.register('after_init', async function () {
     }
   }
 
-  this.config.theme_config = deepMerge(this.config.theme_config, fluidConfig);
+  this.config.theme_config = deepMerge(this.config.theme_config, freemindConfig);
 });
