@@ -1,0 +1,16 @@
+user:
+  username: Remi
+  nickname: Remi
+site:
+  title: Remi's test site
+  subtitle: Crystal
+  description: This is a Meta Space test site
+  keywords:
+    - Test
+    - Meta Space
+    - Hexo
+  favicon: https://hexo.io/icon/favicon-196x196.png
+  avatar: https://avatars.githubusercontent.com/u/68253563?v=4
+  language: zh-CN
+  timezone: Asia/Shanghai
+  domain: remi-site5.metaspaces.life
