@@ -25,6 +25,7 @@
     "hexo-renderer-markdown-it": "^5.0.0",
     "hexo-renderer-pug": "^2.0.0",
     "hexo-renderer-stylus": "^2.0.0",
-    "hexo-server": "^2.0.0"
+    "hexo-server": "^2.0.0",
+    "hexo-filter-meta-space": "^0.0.2"
   }
 }
