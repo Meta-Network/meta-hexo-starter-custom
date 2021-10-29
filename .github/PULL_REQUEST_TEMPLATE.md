@@ -6,8 +6,8 @@
 
 - [ ] Bugfix
 - [ ] Submitting a new theme template
-- [ ] Configuring [meta-space-config-filter]()
-- [ ] Configuring [meta-space-post-filter]()
+- [ ] Configuring [meta-space-config-filter](https://github.com/Meta-Network/meta-hexo-starter-custom/blob/main/CONTRIBUTING.md#configuring-meta-space-config-filter)
+- [ ] Configuring [meta-space-post-filter](https://github.com/Meta-Network/meta-hexo-starter-custom/blob/main/CONTRIBUTING.md#configuring-meta-space-post-filter)
 - [ ] Refactor
 - [ ] Build-related changes
 - [ ] Other, please describe:
@@ -67,5 +67,5 @@ Remove if no visual changes have been made.
 <!-- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!-- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] I have read the **CONTRIBUTING** document.
+- [ ] I have read the [**CONTRIBUTING**](https://github.com/Meta-Network/meta-hexo-starter-custom/blob/main/CONTRIBUTING.md) document.
 - [ ] I have tested the changes.
