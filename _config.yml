@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cactus
+theme: apollo
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -129,3 +129,7 @@ restful:
   use_tag_slug: false # Use slug for filename of tag data
   post: true
   pages: false
+
+menu:
+  Blog: /
+  Archive: /archives/
