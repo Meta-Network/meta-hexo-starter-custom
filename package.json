@@ -15,7 +15,7 @@
     "bulma-stylus": "0.8.0",
     "got": "^11.8.2",
     "hexo": "^5.0.0",
-    "hexo-filter-meta-space": "^0.0.2",
+    "hexo-filter-meta-space": "^0.0.3",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-feed": "^3.0.0",
