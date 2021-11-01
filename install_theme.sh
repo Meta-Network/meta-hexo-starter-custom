@@ -1,2 +1,2 @@
 #!/bin/bash
-git clone https://github.com/pinggod/hexo-theme-apollo.git themes/apollo
+git clone https://github.com/zthxxx/hexo-theme-Wikitten themes/Wikitten
