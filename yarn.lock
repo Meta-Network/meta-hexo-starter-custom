@@ -710,10 +710,10 @@ hexo-cli@^4.0.0:
     resolve "^1.11.0"
     tildify "^2.0.0"
 
-hexo-filter-meta-space@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.npmjs.org/hexo-filter-meta-space/-/hexo-filter-meta-space-0.0.2.tgz#6e63c4737ffb36c900d2091102d6c63c3a47aaa0"
-  integrity sha512-bXaPmwo8isfGTj4RyfjCOxL180L0V12mYadJciENLxdiKeQ8j37JxVrxXgCEVDWqre3f4Gt7L/iL9dRVCvE/8g==
+hexo-filter-meta-space@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/hexo-filter-meta-space/-/hexo-filter-meta-space-0.0.3.tgz#30d8f9b6258f2c0e0e15f267a94cb94f0a2c234a"
+  integrity sha512-4gEq58c40/4ih0KZU5rrTXv1+HvI2oAqdChg8B4E9i1ImYNMEaEAH3yGmkCQTRXXQePGwboMO5NjAe0FIyQzlA==
   dependencies:
     hexo-fs "^3.1.0"
     hexo-util "^2.4.0"
