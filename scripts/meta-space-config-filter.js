@@ -4,19 +4,14 @@ const path = require('path');
 
 // eslint-disable-next-line no-undef
 hexo.extend.filter.register('after_init', async function () {
-  const { base_dir, render } = this;
+  const { metaSpaceConfig } = this.config;
 
-  const metaConfigPath = path.join(base_dir, 'meta-space-config.yml');
-  const isExists = await fs.exists(metaConfigPath);
-  if (!isExists) return;
-
-  const metaConfig = await render.render({ path: metaConfigPath });
-  const { user, site } = metaConfig;
+  const { user, site } = metaSpaceConfig;
   let liteConfig = {};
   if (site && user) {
     liteConfig = {
       avatar: {
-          url: site.avatar
+        url: site.avatar
       },
     }
   }
