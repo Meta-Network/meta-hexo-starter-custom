@@ -14,3 +14,6 @@ site:
   language: zh-CN
   timezone: Asia/Shanghai
   domain: remi-site5.metaspaces.life
+gateway:
+  ipfs:
+    baseUrl: https://ipfs.fleek.co/ipfs/
