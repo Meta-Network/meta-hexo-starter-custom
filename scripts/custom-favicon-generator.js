@@ -3,14 +3,9 @@ const got = require('got');
 const path = require('path');
 const isURL = require('isurl');
 hexo.extend.generator.register('favicon', async function (locals) {
-  const { base_dir, render } = this;
 
-  const metaConfigPath = path.join(base_dir, 'meta-space-config.yml');
-  const isExists = await fs.exists(metaConfigPath);
-  if (!isExists) return;
-
-  const metaConfig = await render.render({ path: metaConfigPath });
-  const { site, gateway } = metaConfig;
+  const { metaSpaceConfig } = this.config;
+  const { site, gateway } = metaSpaceConfig;
   if (site.favicon) {
     const faviconURL = new URL(site.favicon);
     if (isURL(faviconURL)) {
