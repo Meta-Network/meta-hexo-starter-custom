@@ -103,11 +103,14 @@ FYI:
         - Test
         - Meta Space
         - Hexo
-      favicon: https://hexo.    io/icon/favicon-196x196.png
-      avatar: https://avatars.githubusercontent.      com/u/68253563?v=4
+      favicon: https://hexo.io/icon/favicon-196x196.png
+      avatar: https://avatars.githubusercontent.com/u/68253563?v=4
       language: zh-CN
       timezone: Asia/Shanghai
       domain: remi-site5.metaspaces.life
+    gateway:
+      ipfs:
+        baseUrl: https://ipfs.fleek.co/ipfs/
     ```
 
 3. Create or edit `scripts/meta-space-config-filter.js`. 
@@ -179,14 +182,14 @@ FYI:
         - Test
         - Meta Space
         - Hexo
-      favicon: https://hexo.    io/icon/favicon-196x196.png
-      avatar: https://avatars.githubusercontent.      com/u/68253563?v=4
+      favicon: https://hexo.io/icon/favicon-196x196.png
+      avatar: https://avatars.githubusercontent.com/u/68253563?v=4
       language: zh-CN
       timezone: Asia/Shanghai
       domain: remi-site5.metaspaces.life
     gateway:
       ipfs:
-    baseUrl: https://ipfs.fleek.co/ipfs/
+        baseUrl: https://ipfs.fleek.co/ipfs/
     ```
 
 3. Create or edit `scripts/meta-space-post-filter.js`.
