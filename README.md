@@ -1,4 +1,4 @@
-## meta-hexo-starter 
+## meta-hexo-starter-custom
 
 ### Installation
 
@@ -39,5 +39,3 @@ We accept themes that meet the following criteria.
 We welcome any PR or issue, please see our [contributing document](https://github.com/Meta-Network/meta-hexo-starter-custom/blob/main/CONTRIBUTING.md).
 
 You could leave a comment if you want to resolve an issue.
-
-

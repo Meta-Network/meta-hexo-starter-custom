@@ -1,0 +1,20 @@
+# meta-space-config.yml
+user:
+  username: Remi
+  nickname: Remi
+site:
+  title: Remi's test site
+  subtitle: Crystal
+  description: This is a Meta Space test site
+  keywords:
+    - Test
+    - Meta Space
+    - Hexo
+  favicon: ipfs://bafybeiftknbhe6aainxnkdhkm7kdfv7cl4chz37fresnzks2cqwawfv6ki
+  avatar: https://avatars.githubusercontent.com/u/68253563?v=4
+  language: zh-CN
+  timezone: Asia/Shanghai
+  domain: remi-site5.metaspaces.life
+gateway:
+  ipfs:
+    baseUrl: https://ipfs.fleek.co/ipfs/

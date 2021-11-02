@@ -103,7 +103,7 @@ FYI:
         - Test
         - Meta Space
         - Hexo
-      favicon: https://hexo.io/icon/favicon-196x196.png
+      favicon: ipfs://bafybeiftknbhe6aainxnkdhkm7kdfv7cl4chz37fresnzks2cqwawfv6ki
       avatar: https://avatars.githubusercontent.com/u/68253563?v=4
       language: zh-CN
       timezone: Asia/Shanghai
@@ -182,7 +182,7 @@ FYI:
         - Test
         - Meta Space
         - Hexo
-      favicon: https://hexo.io/icon/favicon-196x196.png
+      favicon: ipfs://bafybeiftknbhe6aainxnkdhkm7kdfv7cl4chz37fresnzks2cqwawfv6ki
       avatar: https://avatars.githubusercontent.com/u/68253563?v=4
       language: zh-CN
       timezone: Asia/Shanghai
