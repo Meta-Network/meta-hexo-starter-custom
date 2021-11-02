@@ -7,12 +7,14 @@ We use the plugin [`hexo-filter-meta-space`](https://www.npmjs.com/package/hexo-
 ### Checkout
 
 1. Fork [Meta-Network/meta-hexo-starter-custom](https://github.com/Meta-Network/meta-hexo-starter-custom).
+
 2. Clone the repository.
 
     ``` bash
     $ git clone https://github.com/<username>/meta-hexo-starter-custom.git
     $ cd meta-hexo-starter-custom
     ```
+
 ### Submitting a new theme template
 
 We accept themes that meet the following criteria.
