@@ -1,5 +1,7 @@
 ## meta-hexo-starter-custom
 
+[![Join the chat at https://gitter.im/meta-network-team/meta-hexo-starter](https://badges.gitter.im/meta-network-team/meta-hexo-starter.svg)](https://gitter.im/meta-network-team/meta-hexo-starter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Installation
 
 Each branch of this repository is a Hexo Theme. You can also use it by clone this repository and switch to the branch.
