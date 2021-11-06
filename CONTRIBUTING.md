@@ -35,7 +35,7 @@ FYI:
     ``` bash
     $ git checkout -b theme/<theme_name>
     ```
-   
+
 2. Edit `install_theme.sh`:
 
     ```shell
@@ -44,7 +44,7 @@ FYI:
     ```
 
 3. Install dependencies:
-   
+
     ```bash
     # optional, check the theme's official documentation
     $ yarn add <theme_dependencies>
@@ -88,7 +88,7 @@ FYI:
     $ yarn
     ```
 
-2. Check `meta-space-config.yml`.  
+2. Check `meta-space-config.yml`.
 
     ```yaml
     # meta-space-config.yml
