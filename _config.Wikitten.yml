@@ -58,7 +58,7 @@ search:
 
 # History version 
 history_control: # make you wiki has history version control in page
-    enable: true
+    enable: false
     server_link: https://github.com # recommend use GitHub https://github.com
     user: zthxxx
     repertory: Wiki-site
