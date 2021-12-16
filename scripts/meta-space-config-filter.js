@@ -5,17 +5,18 @@ hexo.extend.filter.register('after_init', async function () {
   const { metaSpaceConfig } = this.config;
 
   const { user, site } = metaSpaceConfig;
-  let dailyConfig = {};
+  let bearConfig = {};
   if (site && user) {
     // check the theme's official documention
-    dailyConfig = {
+    bearConfig = {
         title: site.title,
-        subtitle: site.subtitle,
+        author: user.username,
+        aboutme: site.description,
         favicon: site.favicon,
         avatar: site.avatar
     }
   }
 
   // use deepMerge to merge config
-  this.config.theme_config = deepMerge(this.config.theme_config, dailyConfig);
+  this.config.theme_config = deepMerge(this.config.theme_config, bearConfig);
 });
