@@ -9,11 +9,11 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "4.2.1"
+    "version": "5.4.0"
   },
   "dependencies": {
     "bulma-stylus": "0.8.0",
-    "hexo": "4.2",
+    "hexo": "^5.4.0",
     "hexo-browsersync": "^0.3.0",
     "hexo-filter-meta-space": "^0.0.3",
     "hexo-generator-archive": "^1.0.0",

@@ -6,11 +6,12 @@ title: GARY.SHEN
 
 author: GARY.SHEN
 aboutme: Halo~
+domain: ""
 
 # Content
 excerpt_link: 全文...
 fancybox: true
-date_format: 'YYYY年MM月DD日'
+date_format: "MMMM Do YYYY"
 
 socials:
   github: ""

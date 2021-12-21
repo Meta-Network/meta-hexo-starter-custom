@@ -9,14 +9,25 @@ hexo.extend.filter.register('after_init', async function () {
   if (site && user) {
     // check the theme's official documention
     bearConfig = {
-        title: site.title,
-        author: user.username,
-        aboutme: site.description,
-        favicon: site.favicon,
-        avatar: site.avatar
+      title: site.title,
+      author: user.username,
+      aboutme: site.description,
+      favicon: site.favicon,
+      avatar: site.avatar,
+      domain: site.domain,
     }
   }
 
   // use deepMerge to merge config
   this.config.theme_config = deepMerge(this.config.theme_config, bearConfig);
+});
+
+hexo.extend.filter.register('before_post_render', function (data) {
+  console.log(data);
+  // Metadata
+  if (this.config.metaSpaceConfig?.gateway?.dataViewer?.baseUrl && data?.serverVerificationMetadataStorageType && data?.serverVerificationMetadataRefer) {
+    data.MetadataUrl =
+      `${this.config.metaSpaceConfig.gateway.dataViewer.baseUrl}${data.serverVerificationMetadataStorageType}/${data.serverVerificationMetadataRefer}' `;
+  }
+  return data;
 });
