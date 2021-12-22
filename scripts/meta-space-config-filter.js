@@ -11,10 +11,11 @@ hexo.extend.filter.register('after_init', async function () {
     bearConfig = {
       title: site.title,
       author: user.username,
-      aboutme: site.description,
+      aboutme: site.subtitle,
       favicon: site.favicon,
       avatar: site.avatar,
       domain: site.domain,
+      description: site.description
     }
   }
 
