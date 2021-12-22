@@ -1,9 +1,0 @@
-nav:
-  home: /
-  articles: /archives/
-  search: /search/
-
-social_links:
-  github: http://github.com/Meta-Network
-
-colorscheme: "dark"
