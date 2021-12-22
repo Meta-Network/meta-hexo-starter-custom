@@ -28,7 +28,7 @@ hexo.extend.filter.register('before_post_render', function (data) {
   // Metadata
   if (this.config.metaSpaceConfig?.gateway?.dataViewer?.baseUrl && data?.serverVerificationMetadataStorageType && data?.serverVerificationMetadataRefer) {
     data.MetadataUrl =
-      `${this.config.metaSpaceConfig.gateway.dataViewer.baseUrl}${data.serverVerificationMetadataStorageType}/${data.serverVerificationMetadataRefer}' `;
+      `${this.config.metaSpaceConfig.gateway.dataViewer.baseUrl}${data.serverVerificationMetadataStorageType}/${data.serverVerificationMetadataRefer}`;
   }
   return data;
 });
