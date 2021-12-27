@@ -1,5 +1,5 @@
 ---
-title: Welcome aboard Meta Space
+title: Welcome aboard Meta Space （CN+EN）
 tags:
   - Meta Space
 categories:
@@ -97,3 +97,123 @@ Meta Link 元链接 （Not launch yet）
 【Medium】Meta Network https://medium.com/meta-network
 【Twitter】@realMetaNetwork https://twitter.com/realMetaNetwork
 【Telegram】Matataki https://t.me/smartsignature_io
+
+    
+    
+# Welcome aboard Meta Space
+
+Hello Captain!
+
+Welcome to Meta Space! 
+The Meta Team wants to create Meta Space as a sustainably built virtual digital identity, your metadata display space.
+
+The era of Web 2.0 is shaky - since Darcy DiNucci coined the term in 1999, issues such as copyright protection, privacy control, data validation, identity continuity, data control, and information censorship have been present and increasingly worrisome, issues that have held creators back for over two decades. These pain points will be better solved in the next Web 3.0 era. For the first time in history, humanity will be connected as a whole in the future through the metadata universe and social tokens. There are countless others like you on the road to Web3.0 and many more creators who will be inspired to join the Web3 fleet in the future.
+
+## What is Meta Space
+
+Unlike the social networks that people have become accustomed to, Meta Space is a space that is entirely personal to you. Your creations are stored in a controlled space designated by you, published to your domain, and the entire submission and publication process is verified by verifiable metadata. In other words, you are the platform, and you control all the traffic, revenue, and data copyright. If you wish, your past creations will be safely returned to your Meta Space shortly through various migration tools invented by the community and us. Meta Space is the starship that will carry you to the Web 3.0 metadata universe.
+
+
+For those of you reading this:
+If you want the precious content you create to be stored forever,
+If you wish your creation-to-publication process to be free from the evils of the platform,
+If you're going to have access to a display space entirely under your control,
+If you're going to be ready to enter the Web 3.0 world from now on-
+
+You are welcome to create your own Meta Space here!
+If you're an old Matataki user, this is your new home!
+
+## Why Meta Space
+
+Meta Space is a stand-alone site that can exist off the platform, a showcase for your creative metadata, and a sustainable digital identity essential for your entry into Web 3.0.
+
+We've taken the favorite parts of our previous product, Matataki, and enhanced them all while providing a de-platformed experience. The following features are just a few.
+
+**De-platformed experience**
+Meta Space is a tool only; you create and control the platform.
+
+**Markdown**
+We know you love Markdown writing, and so do we.
+
+**Decentralized Storage**
+Are you tired of getting your posts deleted? Try decentralized storage!
+
+**Proved Creating**
+We provide a traceable and verifiable proofing tool for every step of the process!
+
+**Secured Creating**
+All creations are done locally, and we - no one other than you - have the right to interfere.
+
+**Metadata**
+All content and material is based on decentralized stored metadata, preserving the NFT creation space.
+
+**Social Token**
+Fan ticket, the core value tool in the previous generation product Matataki, will return to Meta Space in the future.
+
+**More features for the future**
+We have envisioned a future world where
+- I want to be able to have an identity on the Internet that I can control, and that is permanent.
+- I want to be able to access any social media without the burden of friend transfer.
+- I want to connect with even just 1,000 real followers rather than focusing on vanity metrics - traffic.
+- I want to earn an income and support myself by only going into what I love and am good at.
+- I want to be free to control my lifestyle and no longer be kidnapped by the so-called notion of success.
+- I want a form of Web 3.0 where individuals take metadata and data into their own hands.
+- The Web3.0 form I want is one in which the platform is responsible for good form, the individual is responsible for good content, and the network is responsible for good socialization.
+
+Our products are future-proof and passionately moving towards the "creator economy" - more features will come in the future, so feel free to contact us, and thanks for all the feedback!
+
+
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+---
+    
+    
+【以下内容不是正文内容】
+    
+    
+    
+ GETTING STARTED
+Start here for a quick overview of everything you need to know
+We've crammed the most important information to help you get started with Ghost into this one post. It's your cheat-sheet to get started, and your shortcut to advanced features.
+
+ 
+ Hey there, welcome to your new home on the web!
+
+Unlike social networks, this one is all yours. Publish your work on a custom domain, invite your audience to subscribe, send them new content by email newsletter, and offer premium subscriptions to generate sustainable recurring revenue to fund your work.
+
+Ghost is an independent, open source app, which means you can customize absolutely everything. Inside the admin area, you'll find straightforward controls for changing themes, colors, navigation, logos and settings — so you can set your site up just how you like it. No technical knowledge required.
+
+If you're feeling a little more adventurous, there's really no limit to what's possible. With just a little bit of HTML and CSS you can modify or build your very own theme from scratch, or connect to Zapier to explore advanced integrations. Advanced developers can go even further and build entirely custom workflows using the Ghost API.
+
+This level of customization means that Ghost grows with you. It's easy to get started, but there's always another level of what's possible. So, you won't find yourself outgrowing the app in a few months time and wishing you'd chosen something more powerful!
+
+For now, you're probably just wondering what to do first. To help get you going as quickly as possible, we've populated your site with starter content (like this post!) covering all the key concepts and features of the product.
+
+You'll find an outline of all the different topics below, with links to each section so you can explore the parts that interest you most.
+
+Once you're ready to begin publishing and want to clear out these starter posts, you can delete the "Ghost" staff user. Deleting an author will automatically remove all of their posts, leaving you with a clean blank canvas.
+
+Your guide to Ghost
+Customizing your brand and site settings
+Writing & managing content, an advanced guide for creators
+Building your audience with subscriber signups
+Selling premium memberships with recurring revenue
+How to grow your business around an audience
+Setting up custom integrations and apps
+If you get through all those and you're hungry for more, you can find an extensive library of content for creators over on the Ghost blog.
+
+Getting help
+If you need help, Ghost(Pro) customers can always reach our full-time support team by clicking on the Ghost(Pro) link inside their admin panel.
+
+If you're a developer working with the codebase in a self-managed install, check out our developer community forum to chat with other users.
+
+Have fun!
