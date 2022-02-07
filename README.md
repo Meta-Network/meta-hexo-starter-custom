@@ -7,15 +7,15 @@
 Each branch of this repository is a Hexo Theme. You can also use it by clone this repository and switch to the branch.
 
 ```bash
-$ git clone git@github.com:Meta-Network/meta-hexo-starter-custom.git
-$ git checkout themes/<theme_name>
+$ git clone https://github.com/Meta-Network/meta-hexo-starter-custom.git
+$ git checkout theme/<theme-name>
 ```
 
 Then install the dependencies and start Hexo server. With `yarn` or `npm`:
 
 ```bash
 # clone the theme's repo
-$ ./install.sh
+$ ./install_theme.sh
 $ yarn
 $ yarn server
 ```
@@ -28,6 +28,12 @@ $ hexo server
 INFO  Validating config
 INFO  Start processing
 INFO  Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.
+```
+
+### Build docker image
+
+```shell
+docker build -t meta-cms-worker-theme-<theme-name>:latest .
 ```
 
 ### Contributing
