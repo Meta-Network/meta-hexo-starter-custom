@@ -35,6 +35,7 @@ INFO  Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.
 ```shell
 docker build -t meta-cms-worker-theme-<theme-name>:latest .
 ```
+*Note: Install theme before build docker image.*
 
 ### Contributing
 
