@@ -24,7 +24,6 @@ hexo.extend.filter.register('after_init', async function () {
 });
 
 hexo.extend.filter.register('before_post_render', function (data) {
-  console.log(data);
   // Metadata
   if (this.config.metaSpaceConfig?.gateway?.dataViewer?.baseUrl && data?.serverVerificationMetadataStorageType && data?.serverVerificationMetadataRefer) {
     data.MetadataUrl =
