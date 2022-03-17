@@ -2,7 +2,7 @@
 
 ## Pull request
 
-We use the plugin [`hexo-filter-meta-space`](https://www.npmjs.com/package/hexo-filter-meta-space), a common configuration file `meta-space-config.yml` and script files `scripts/meta-space-config-filter.js`, `scripts/meta-space-post-filter.js` to adapt multiple themes. We focus on these features.
+We use the plugin [`@metaio/hexo-filter-meta-space`](https://www.npmjs.com/package/@metaio/hexo-filter-meta-space), a common configuration file `meta-space-config.yml` and script files `scripts/meta-space-config-filter.js`, `scripts/meta-space-post-filter.js` to adapt multiple themes. We focus on these features.
 
 ### Checkout
 
@@ -49,7 +49,7 @@ FYI:
     # optional, check the theme's official documentation
     $ yarn add <theme_dependencies>
     # see the section 'Add meta-space-config-filter'
-    $ yarn add hexo-filter-meta-space 
+    $ yarn add @metaio/hexo-filter-meta-space 
     # install other dependencies in package.json
     $ yarn
     ```
@@ -83,7 +83,7 @@ FYI:
     ``` bash
     $ git checkout theme/<theme_name>
     # see the section 'Add meta-space-config-filter'
-    $ yarn add hexo-filter-meta-space 
+    $ yarn add @metaio/hexo-filter-meta-space 
     # install other dependencies in package.json
     $ yarn
     ```
@@ -164,7 +164,7 @@ FYI:
     ``` bash
     $ git checkout theme/<theme_name>
     $ yarn
-    $ yarn add hexo-filter-meta-space
+    $ yarn add @metaio/hexo-filter-meta-space
     ```
 
 2. Check `meta-space-config.yml` if you load this config in the script.
