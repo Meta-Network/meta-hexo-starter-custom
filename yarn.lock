@@ -1018,7 +1018,7 @@ hexo-util@^2.1.0, hexo-util@^2.4.0:
     prismjs "^1.17.1"
     strip-indent "^3.0.0"
 
-hexo@^6.1.0:
+hexo@^6.2.0:
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/hexo/-/hexo-6.2.0.tgz#5a62a4c731bf89431d2004326b07af0ec0490242"
   integrity sha512-HOpt3vUOz/T0rWTDb/CtWuBJwYARPwbpvGwsaz0RPu/l5I6AmKE+UA0lJZf14iPS3JIt/HiOcTZ3Qz22A+PE8w==
